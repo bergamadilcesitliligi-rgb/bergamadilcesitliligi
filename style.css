@@ -58,3 +58,12 @@ footer {
     color: #666;
     font-size: 14px;
 }
+.banner {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.banner img {
+    width: 100%;
+    border-radius: 10px;
+}
